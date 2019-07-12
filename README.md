@@ -12,8 +12,9 @@ This is a simple network to Understand, You Can extand this Network and add more
 # Feedforword :
   
 ![](images/neural_network.png)
-
-Output of First Layer is the sumation of multiplied all the input and Weight.
+   
+Output of First Layer is the sumation of multiplied all the input and Weight.   
+  
 <a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{150}&space;O_i&space;=&space;Input" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\dpi{150}&space;O_i&space;=&space;Input" title="O_i = Input" /></a>   
 <a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{150}&space;O_j&space;=&space;Output_1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\dpi{150}&space;O_j&space;=&space;Output_1" title="O_j = Output_1" /></a>  
 <a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{150}&space;O_k&space;=&space;Output_2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\dpi{150}&space;O_k&space;=&space;Output_2" title="O_k = Output_2" /></a>  
